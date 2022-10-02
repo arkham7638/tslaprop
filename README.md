@@ -3,9 +3,7 @@ Welcome to your new dbt project!
 ![image](https://user-images.githubusercontent.com/56217969/193476651-312df43e-8fe2-4e87-a314-9f8b448b4d81.png)
 
 
-Try running the following commands:
-- dbt run
-- dbt test
+Data Movement
 
 
 ### Resources:

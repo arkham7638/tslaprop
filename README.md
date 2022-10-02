@@ -1,6 +1,7 @@
 Welcome to your new dbt project!
 
-### Using the starter project
+![image](https://user-images.githubusercontent.com/56217969/193476485-ad3a54fe-fc78-49d7-a6f3-54145fa272b2.png)
+
 
 Try running the following commands:
 - dbt run

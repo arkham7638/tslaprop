@@ -1,6 +1,8 @@
 Welcome to your new dbt project!
 
-![image](https://user-images.githubusercontent.com/56217969/193476651-312df43e-8fe2-4e87-a314-9f8b448b4d81.png)
+![image](https://user-images.githubusercontent.com/56217969/193678545-2a7cefa7-a67f-4793-a6a1-a532ae297291.png)
+
+http://localhost:3000/d/mwrs0bV4z/stocks-copy?orgId=1&from=345427200000&to=1663286400000
 
 
 Data Movement

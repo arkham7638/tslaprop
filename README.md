@@ -14,10 +14,10 @@ The projects deals with the ingestion of raw csv file to postgres
 http://localhost:3000/d/mwrs0bV4z/stocks-copy?orgId=1&from=345427200000&to=1663286400000
 
 Tools Used :
-Postgres database
-DBT: Data Transformation (Data Build Tool)
-Grafana for data visualisation
-Data source: Kaggle.
+1. Postgres database
+2. DBT: Data Transformation (Data Build Tool)
+3. Grafana for data visualisation
+4. Data source: Kaggle.
 
 ### Resources:
 - Learn more about dbt [in the docs](https://docs.getdbt.com/docs/introduction)

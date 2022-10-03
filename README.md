@@ -9,7 +9,7 @@ The projects deals with the ingestion of raw csv file to postgres
 ### Data Flow
 ![image](https://user-images.githubusercontent.com/56217969/193678545-2a7cefa7-a67f-4793-a6a1-a532ae297291.png)
 
-Dashboard
+### Dashboard
 ![image](https://user-images.githubusercontent.com/56217969/193681278-e0ccc74f-d8f6-47c8-b352-13246e95f836.png)
 http://localhost:3000/d/mwrs0bV4z/stocks-copy?orgId=1&from=345427200000&to=1663286400000
 
